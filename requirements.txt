@@ -1,0 +1,32 @@
+# Core framework
+streamlit==1.34.0
+
+# PDF and DOCX parsing
+PyPDF2==3.0.1
+python-docx==1.1.0
+
+# Excel export
+openpyxl==3.1.2
+pandas==2.2.2
+
+# Fast text extraction and parsing
+pdfplumber==0.10.3
+python-pptx==0.6.23
+
+# Text processing
+nltk==3.8.1
+
+# Email & name validation
+email-validator==2.1.0.post1
+nameparser==1.1.2
+
+# File handling and utils
+python-magic-bin==0.4.14
+
+# For future LLM or embedding support (if needed later)
+langchain==0.1.14
+faiss-cpu==1.7.4
+sentence-transformers==2.6.1
+
+# Optional: environment variable management
+python-dotenv==1.0.1
